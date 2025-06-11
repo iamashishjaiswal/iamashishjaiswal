@@ -1,6 +1,6 @@
 # Hi there, I'm Ashish Jaiswal 👋
 
-**| Cybersecurity Graduate | Aspiring Software Engineer | Python Enthusiast | Certified Ethical Hacker | Certified Network Defender |**
+**| Cybersecurity Grad • Aspiring Software Engineer • Python Developer • CEH & CND Certified • AI & Automation Enthusiast |**
 
 ---
 
