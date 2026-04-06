@@ -1,59 +1,84 @@
-# Hi there, I'm Ashish Jaiswal 👋
+# Hi, I'm Ashish Jaiswal 👋  
 
-**| Cybersecurity Graduate • Aspiring Software Engineer • Python Developer • CEH & CND Certified • AI & Automation Enthusiast |**
-
----
-
-## 🚀 About Me
-
-- 🎓 Recent BCA graduate with a specialization in Cybersecurity
-- 🐍 Learning Python and expanding my software engineering toolkit
-- 📜 Certified Ethical Hacker (CEH) & Certified Network Defender (CND)
-- 🤖 AI enthusiast – love using prompts to automate and create
-- 💡 I enjoy turning creative ideas and intrusive thoughts into code
-- 😴 Sleeping is underrated (my top hobby!)
+**Software Engineer | Freelancer | Python | Backend Systems | AI & Automation**
 
 ---
 
-## 🛠️ Skills & Tools
+## About
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-blue?style=flat)
-![CEH](https://img.shields.io/badge/Certified%20Ethical%20Hacker-EC--Council-red?style=flat)
-![CND](https://img.shields.io/badge/Certified%20Network%20Defender-EC--Council-green?style=flat)
-![AI Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-AI%20Powered-informational?style=plastic&logo=OpenAI&logoColor=white)
+Software Engineer with a background in Cybersecurity, focused on building reliable backend systems, automation pipelines, and real-time integrations.
 
----
-
-## 🌟 Featured Project
-
-### [🔗 Streamclipper](https://github.com/iamashish-1/Streamclipper)
-
-> - A Python-based tool for clipping live YouTube streams and sending clips to Discord with timestamps and direct video links.
-> - This project helped me dive deep into handling media data, Python libraries, and problem-solving through code.
+- BCA Graduate (Cybersecurity)  
+- Freelancer — building automation tools and backend systems  
+- Strong in Python, APIs, and event-driven architectures  
+- Certified: CEH, CND  
+- Interest areas: Distributed Systems, AI Integration, Scalable Backend  
 
 ---
 
-## 🔧 Currently Working On
+## Skills
 
-- Developing Python skills by creating automation scripts for practical tasks.
-- Studying secure coding practices and gaining hands-on experience.
-- Exploring prompt engineering to effectively integrate AI into my projects.
+**Languages**  
+Python  
+
+**Core CS**  
+Data Structures & Algorithms  
+Problem Solving  
+
+**Backend & Systems**  
+REST APIs  
+Event-driven systems (Webhooks, Pub/Sub)  
+Automation pipelines  
+Discord & third-party integrations  
+
+**Security**  
+Network Security  
+Secure coding practices  
+Ethical Hacking fundamentals  
+
+**AI**  
+Prompt Engineering  
+Applied AI in automation workflows  
 
 ---
 
+## Work
 
-## 📫 Connect with Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamashishjaiswal/)  
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:connect.ashishjaiswalofficial@gmail.com)  
-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1211975335059529759)
-  
----
-
-## ✨ Fun Facts
-
-- I'm passionate about prompt engineering—AI makes life easier!
-- When I’m not coding, I’m probably asleep or dreaming up my next side project.
+- Designed and implemented event-driven automation systems for real-time workflows  
+- Built integrations connecting YouTube → backend services → Discord, handling live event triggers  
+- Developed backend logic for:
+  - asynchronous processing  
+  - message templating systems  
+  - multi-source data handling  
+- Focus on low-latency execution, reliability, and clean system design  
 
 ---
+
+## Engineering Focus
+
+- Backend system design  
+- Writing clean, maintainable, production-level code  
+- Building scalable automation tools  
+- Strengthening DSA for high-performance problem solving  
+
+---
+
+## Goals
+
+- Build systems that handle real-world scale and concurrency  
+- Deepen understanding of system design & distributed systems  
+- Contribute to high-impact engineering teams  
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/iamashishjaiswal/  
+- Email: connect.ashishjaiswalofficial@gmail.com  
+- Discord: https://discord.com/users/1211975335059529759  
+
+---
+
+## Principle
+
+> Build systems that work under pressure, not just in demos.
