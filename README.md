@@ -11,7 +11,7 @@ Software Engineer with a background in Cybersecurity, focused on building reliab
 - BCA Graduate (Cybersecurity)  
 - Freelancer — building automation tools and backend systems  
 - Strong in Python, APIs, and event-driven architectures  
-- Certified: CEH, CND  
+- Certified: CEH - Certified Ethical Hacker, CND - Certified Network Defendor
 - Interest areas: Distributed Systems, AI Integration, Scalable Backend  
 
 ---
