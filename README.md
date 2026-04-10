@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Jaiswal 👋  
 
-**Software Engineer | Freelancer | Python | Backend Systems | Artificial Intelligence & Automation**
+**Software Engineer | Freelancer | Python | Backend Systems | Artificial Intelligence & Automation | Machine Learning**
 
 ---
 
